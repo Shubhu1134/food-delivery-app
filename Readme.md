@@ -2,8 +2,6 @@
 
 A full-stack food delivery application built with React.js, Node.js, Express, and MongoDB.
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Food+Delivery+App+Screenshot) <!-- Replace with actual screenshot -->
-
 ## ✨ Features
 
 - **User Authentication**: Signup/login with JWT token security
