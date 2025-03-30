@@ -99,19 +99,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Made with ❤️ by [shubham lodhi](https://github.com/Shubhu1134)
-```
-
-### How to Add This to Your Repository:
-1. Create a new file named `README.md` in your project's root folder
-2. Copy/paste the above content
-3. Customize with:
-   - Your app screenshots (replace placeholder)
-   - Actual deployment link when available
-   - Specific features you've implemented
-4. Commit and push:
-```bash
-git add README.md
-git commit -m "Added project documentation"
-git push origin main
-```
 
