@@ -98,7 +98,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/Shubhu1134)
+Made with ❤️ by [shubham lodhi](https://github.com/Shubhu1134)
 ```
 
 ### How to Add This to Your Repository:
@@ -115,10 +115,3 @@ git commit -m "Added project documentation"
 git push origin main
 ```
 
-This professional README will:
-✅ Showcase your project effectively  
-✅ Help others understand and run your code  
-✅ Follow GitHub best practices  
-✅ Make your repo stand out to recruiters  
-
-Would you like me to add any specific sections (like API documentation or environment setup details)? 😊
